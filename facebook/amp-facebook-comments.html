@@ -1,5 +1,5 @@
 <div class="fb-comments" amp-facebook-comment ></div>
-
+teteeee
 <div id="fb-root"></div>
 <script>
 
@@ -12,8 +12,7 @@
         }
         return(false);
     }
-    $('a[amp-facebook-comment]').each(function() {
-        $(this).attr('data-href', getQueryVariable('url'));
+    $('div[amp-facebook-comment]').each(function() {
         $(this).attr('data-href', getQueryVariable('url'));
         $(this).attr('data-numposts', getQueryVariable('numpost'));
     });
