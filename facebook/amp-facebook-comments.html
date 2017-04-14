@@ -1,4 +1,4 @@
-<div class="fb-comments" amp-facebook-comment ></div>
+<div class="fb-comments" data-facebook-comment=""></div>
 teteeee
 <div id="fb-root"></div>
 <script>
@@ -12,7 +12,7 @@ teteeee
         }
         return(false);
     }
-    $('div[amp-facebook-comment]').each(function() {
+    $('div[data-facebook-comment]').each(function() {
         $(this).attr('data-href', getQueryVariable('url'));
         $(this).attr('data-numposts', getQueryVariable('numpost'));
     });
