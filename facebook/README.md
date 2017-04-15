@@ -1,4 +1,4 @@
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://raw.githubusercontent.com/dankedev/ampinstant/master/logo.svg "Logo Title Text 2"
 
 #Facebook Comments for Google AMP (un-official)
 
