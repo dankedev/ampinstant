@@ -1,6 +1,7 @@
-[logo]: https://raw.githubusercontent.com/dankedev/ampinstant/master/logo.svg "Logo Title Text 2"
 
-#Facebook Comments for Google AMP (un-official)
+![AMP Instant - WordPress AMP Theme](https://raw.githubusercontent.com/dankedev/ampinstant/master/logo.png)
+
+# Facebook Comments for Google AMP (un-official)
 
 The comments plugin lets people comment on content on your site using their Facebook account. People can choose to share their comment activity with their friends (and friends of their friends) on Facebook as well. The comments plugin also includes built-in moderation tools and social relevance ranking.
 
@@ -9,7 +10,7 @@ But...
 Actually Facebook not yet support AMP. You can implemented the Facebook Comment by follow this step.
 
 ---
-##Before you start
+## Before you start
 * If you haven't done so already, you'll want to familiarize yourself with Google's [What Is AMP](https://www.ampproject.org/docs/get_started/about-amp.html)? and [Create Your First AMP Page](https://www.ampproject.org/docs/get_started/create.html).
 * Make Sure You have Facebook Account :p. And Make an Faebook APP. Read the [Quickstart Guide](https://developers.facebook.com/docs/) For more informations
 * Make sure you can host the installation code on two different domains.
@@ -60,3 +61,10 @@ Actually Facebook not yet support AMP. You can implemented the Facebook Comment 
 </amp-iframe>
 ```
 4. Replace `{YOUR_FACEBOOK_APP_ID}` with your Facebook App Id that you have registered before. and `[YOUR_CURRENT_URL`] with current URL that will be commented. If your are using @WordPress you can use `<?php echo get_the_permalink();?>`
+
+
+Hadie
+
+[AMP Instant](https://www.ampinstant.net)
+
+[Dankedev](http://www.dankedev.com)
